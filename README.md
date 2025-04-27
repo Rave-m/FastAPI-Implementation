@@ -1,5 +1,3 @@
-# FastAPI Project README
-
 ## Project Overview
 
 This is a simple FastAPI application that implements a basic items API. The API allows you to create, list, and retrieve items.
